@@ -1,0 +1,7 @@
+Blind Melon No Rain
+
+
+
+locate:
+
+The locate - a.k.a. find - command is meant to find a file within the Linux OS. If you don't know the name of a certain file or you aren't sure where the file is saved and stored, the locate command comes in handy. A locate command example:
